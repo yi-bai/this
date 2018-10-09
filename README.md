@@ -29,11 +29,11 @@ I'm focusing on developing and providing services with consision, readability an
 
 ## Skill
 - **Language**: Java (Sprint Boot, Play, Akka), Python (Django), JavaScript (>=ES6, Webpack), Linux Shell Script
-- **Database**: MySQL, Redis, ElasticSearch, Cassandra
 - **Server**: Linux, Nginx
 - **Container**: Docker (Dockerfile, Docker-Compose)
 - **CI/CD**: Chef, Capistrano, Jenkins, Zabbix
 - **Cloud**: AWS (EC2, Route53, SNS, lambda..), GCP
+- **Database**: MySQL, Redis, ElasticSearch, Cassandra
 - **Frontend**: React, Redux, Vue
 
 ## Education
