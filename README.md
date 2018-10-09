@@ -40,12 +40,11 @@ Department of Electronic Engineering
 - **Language**: Java (Sprint Boot, Play, Akka), Python (Django), JavaScript (>=ES6, Webpack), PHP, Linux Shell Script
 - **Database**: MySQL, Redis, memcached, ElasticSearch, Cassandra
 - **Server**: Linux, Nginx
-- **Networking**: Cloud networking models, OpenStack, OpenVSwitch, OAuth
-- **Cloud**: AWS (EC2, Route53, SNS, lambda..), GCP, Akamai CDN
 - **Container**: Docker (Dockerfile, Docker-Compose)
 - **CI/CD**: Chef, Capistrano, Ansible, Jenkins
 - **Monitoring and test**: Zabbix, Mackerel, CloudWatch, Jmeter
-- **Frontend**: React, Redux, Vue, jQuery
+- **Cloud**: AWS (EC2, Route53, SNS, lambda..), GCP
+- **Frontend**: React, Redux, Vue
 - **Version Control**: Git
 
 Developed a library for Redux, which enables users to write fewer codes (actions and reducers), and enables a Json-path style for composing multiple reducers easily.
