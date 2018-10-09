@@ -48,9 +48,9 @@ Department of Electronic Engineering
 - **Frontend**: React, Redux, Vue, jQuery
 - **Version Control**: Git
 
-I developed a library for Redux, which enables users to write fewer codes (actions and reducers), and enables a Json-path style for composing multiple reducers easily.
+Developed a library for Redux, which enables users to write fewer codes (actions and reducers), and enables a Json-path style for composing multiple reducers easily.
 
-I designed a tool that turn Google Sheet into a markup language
+Designed a tool that turn Google Sheet into a markup language
 
 ## Natural Language
 - **English**: business level
