@@ -13,7 +13,7 @@ I'm focusing on developing and providing services with consision, readability an
 #### Firestarter (batch sending service of teamLab)
 - Responsible for delivering push services (Mail, App Push, Web Push, SMS...) based on recommendation results in teamLab.
 - Built infrastructure with over 20 servers by Docker in AWS as leader of team.
-- Implemented a distributed system that could be easily horizontally extended, being able to send mails and pushes by the speed specified by customers (3,000 requests/sec and reach 3 million users per day).
+- The framework is a distributed system that could be easily horizontally extended by Akka and Lambda, being able to send mails and pushes by the speed specified by customers (currently peak 3,000 requests/sec and reach 3 million users per day).
 - Reducing the disc and memory usage to under 10% by implemented a file reader to read compressed file without decompress.
 - Designed a DSL that could be used to easily alter scheduling policies dynamically.
 - Analyzed the actions (delivered, open, click) collected from service to diagnose user behavior.
@@ -21,11 +21,11 @@ I'm focusing on developing and providing services with consision, readability an
 #### Pashadelic.com (photography website)
 - Used Spring Boot and React/Redux for backend/frontend development respectively.
 - Used ElasticSearch for a rich-context search based on like location, tag, and the time that photo shot.
-- Built all develop and live environment in AWS.
+- Built all develop and live environment in AWS by Chef and Capistrano.
 
 #### Side Projects
 - Developed a library for Redux, which enables users to write fewer codes (actions and reducers), and enables a Json-path style for composing multiple reducers easily. [rewpa](https://github.com/yi-bai/rewpa)
-- Designed a tool that turn Google Sheet into a markup language
+- Designed a tool that turn Google Sheet into a markup language [mlgb](https://github.com/yi-bai/mlgb)
 
 ## Skill
 - **Language**: Java (Sprint Boot, Play, Akka), Python (Django), JavaScript (>=ES6, Webpack), Linux Shell Script
