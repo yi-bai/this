@@ -32,8 +32,7 @@ I'm focusing on developing and providing services with consision, readability an
 - **Database**: MySQL, Redis, ElasticSearch, Cassandra
 - **Server**: Linux, Nginx
 - **Container**: Docker (Dockerfile, Docker-Compose)
-- **CI/CD**: Chef, Capistrano, Jenkins
-- **Monitoring and test**: Zabbix, Mackerel, CloudWatch, Jmeter
+- **CI/CD**: Chef, Capistrano, Jenkins, Zabbix
 - **Cloud**: AWS (EC2, Route53, SNS, lambda..), GCP
 - **Frontend**: React, Redux, Vue
 
