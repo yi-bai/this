@@ -29,6 +29,13 @@ I'm focusing on writing codes and providing services with consision, readability
 #### Manekineko (Karaoke party app): backend analysis and monitoring
 #### Biccamera (E-Commercial Shopping): backend development and deployment
 
+## Education
+#### Tsinghua University, Beijing, Master of Engineering (2013/09 - 2016/06)
+Research Fields: IPv4/IPv6 transition mechanisms in novel networking structures
+
+#### Tsinghua University, Beijing, Bachelor of Engineering (2009/09 - 2013/06)
+Department of Electronic Engineering
+
 ## Skill
 - **Language**: Java (Sprint Boot, Play, Akka), Python (Django), JavaScript (>=ES6, Webpack), PHP, Linux Shell Script
 - **Database**: MySQL, Redis, memcached, ElasticSearch, Cassandra
@@ -44,13 +51,6 @@ I'm focusing on writing codes and providing services with consision, readability
 I developed a library for Redux, which enables users to write fewer codes (actions and reducers), and enables a Json-path style for composing multiple reducers easily.
 
 I designed a tool that turn Google Sheet into a markup language
-
-## Education
-#### Tsinghua University, Beijing, Master of Engineering (2013/09 - 2016/06)
-Research Fields: IPv4/IPv6 transition mechanisms in novel networking structures
-
-#### Tsinghua University, Beijing, Bachelor of Engineering (2009/09 - 2013/06)
-Department of Electronic Engineering
 
 ## Natural Language
 - **English**: business level
