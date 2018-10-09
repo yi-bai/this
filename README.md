@@ -1,7 +1,7 @@
 # Yi Bai
 - +81 70-1212-0117
 - yibai.thu@gmail.com
-- [y-bai.com](https://y-bai.com)
+- [y-bai.com](http://y-bai.com)
 
 I'm a full-stack web engineer living in Tokyo after receiving master degree in China.
 
