@@ -5,7 +5,7 @@
 
 I'm a full-stack web engineer living in Tokyo after receiving master degree in China.
 
-I'm focused on writing codes and providing services with consision, readability and robustness.
+I'm focusing on writing codes and providing services with consision, readability and robustness.
 
 ## Career
 ### Web Engineer, teamLab Inc. (2016/10-)
